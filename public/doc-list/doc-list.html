@@ -1,0 +1,12 @@
+<div ng-repeat="doctor in allDoctors" >
+
+  <div class="uk-child-width-1@m uk-grid-small uk-grid-match" uk-grid>
+    <div>
+      <div class="uk-card uk-card-default uk-card-body">
+        <h3 class="uk-card-title">{{doctor.name}}</h3>
+        <p>Contact Number: <a href="tel:{{doctor.primary_contact}}">{{doctor.primary_contact}}</a></p>
+        <p>{{doctor.description}}, {{doctor.institute}}</p>
+      </div>
+    </div>
+  <div>
+</div>
