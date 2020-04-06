@@ -11,7 +11,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "Assistant Professor, Critical care medicine",
       institute: "Kuwait Bangladesh Moitry Govt hospital ( designated for covid 19)",
-      email: "N/A"
+      email: "N/A",
+      location: "Dhaka"
     },
     {
       name: "Dr. Sharifuzzaman",
@@ -19,7 +20,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "Assistant Scientist",
       institute: "Dhaka Hospital, Nutrition and Clinical Services Division",
-      email: "drsharif@icddrb.org"
+      email: "drsharif@icddrb.org",
+      location: "Dhaka"
     },
     {
       name: "Dr. Sabbir Karim",
@@ -27,7 +29,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "Asst. Professor, Paediatric Surgery",
       institute: "Dhaka Shishu Hospital and Bangladesh Institute of Child Health",
-      email: "N/A"
+      email: "N/A",
+      location: "Dhaka"
     },
     {
       name: "Dr. Md Ashiqur Rahman Akanda",
@@ -35,7 +38,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "Asst. Professor, Paediatric Opthalmology",
       institute: "Directorate General of Health Services",
-      email: "N/A"
+      email: "N/A",
+      location: "Dhaka"
     },
     {
       name: "Dr. Md Abdur Rahim",
@@ -43,7 +47,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "Asst. Professor, General and Laparoscopic and Colorectal Surgeon",
       institute: "Sher-e-Bangla Medical College and Hospital",
-      email: "N/A"
+      email: "N/A",
+      location: "Barisal"
     },
     {      
       name: "Dr. Mridha Md Shahinuzzaman",
@@ -51,7 +56,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "Junior consultant ( Medicine)",
       institute: "Narail Sadar Hospital, Narail",
-      email: "N/A"
+      email: "N/A",
+      location: "Narail"
     },
     {
       name: "Dr. Md. Harun-or-Rashid",
@@ -59,7 +65,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "Assistant Professor of Surgery",
       institute: "Chandpur Medical College",
-      email: "N/A"
+      email: "N/A",
+      location: "Chandpur"
     },    
     {
       name: "Dr Md Uzzwal Mallik",
@@ -67,7 +74,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "Assistant Professor ((Medicine specialist and Rheumatologist))",
       institute: "Department of Medicine, Dhaka Medical College",
-      email: "N/A"
+      email: "N/A",
+      location: "Dhaka"
     },
     {
       name: "Dr. Kazi Manwar Hossain",
@@ -75,7 +83,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "Assisstant professor - Surgery",
       institute: "Shaheed Suhrawardy Medical College Hospital , Dhaka",
-      email: "N/A"
+      email: "N/A",
+      location: "Dhaka"
     },
     {
       name: "Dr. Mohammad Mahfuzul Gani (Mahfuz)",
@@ -83,7 +92,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "Orthodontist",
       institute: "Cleft, Comprehensive Cleft & Craniofacial Center, Sheikh Hasina National Institute of Burn & Plastic Surgery",
-      email: "N/A"
+      email: "N/A",
+      location: "Dhaka"
     },
     {
       name: "Dr Mohammad Rashedul Hasan",
@@ -91,7 +101,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "Senior Consultant(Cardiology)",
       institute: "Noakhali General Hospital",
-      email: "N/A"
+      email: "N/A",
+      location: "Dhaka"
     },
     {
       name: "Dr. Mohammad Mahfuzur Rahman",
@@ -99,7 +110,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "+8801611464101",
       description: "Professor",
       institute: "Dept. of Prosthodontics, City Dental College and Hospital",
-      email: "N/A"
+      email: "N/A",
+      location: "Dhaka"
     },
     {
       name: "Dr. Mir Mohammad Rifat Chowdhury",
@@ -107,7 +119,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "Jr. Consultant",
       institute: "National Heart Foundation Hospital and Research Institute",
-      email: "chowrifat@gmail.com"
+      email: "chowrifat@gmail.com",
+      location: "Dhaka"
     },
     {
       name: "Dr. Mir Mohammad Rifat Chowdhury",
@@ -115,7 +128,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "Jr. Consultant",
       institute: "Dept. of Cardiac Anaesthesia and ICU, National Heart Foundation Hospital and Research Institute",
-      email: ""
+      email: "",
+      location: "Dhaka"
     },
     {
       name: "Dr. Md. Mehedi Hasan",
@@ -123,7 +137,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "Dental Surgeon",
       institute: "Dental unit, Chattogram Medical College",
-      email: "N/A"
+      email: "N/A",
+      location: "Chittagong"
     },
     {
       name: "Dr. Md. Mustafizur Rahman",
@@ -131,7 +146,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "General and Orthpedic Surgeon",
       institute: "Orthopedic Division, Holy Family Red Crescent Hospital",
-      email: "N/A"
+      email: "N/A",
+      location: "Dhaka"
     },
     {
       name: "Dr. Md.Shahjahan Sarker",
@@ -139,7 +155,8 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "Assistant Professor (ENT)",
       institute: "National Institute of ENT, Tejgaon, Dhaka",
-      email: "N/A"
+      email: "N/A",
+      location: "Dhaka"
     },
     {
       name: "Dr. Ziaur Rahman Chowdhury",
@@ -147,13 +164,11 @@ angular.module('notredemian-doc-list.services')
       secondary_contact: "N/A",
       description: "MD (Physical Medicine & Rehabilitation)",
       institute: "Dept. of PM&R, BSMMU",
-      email: "N/A"
+      email: "N/A",
+      location: "Dhaka"
     }
     
   ]
-
-
-
 
 	return allDoctors;
 } );

@@ -1,4 +1,19 @@
-<div ng-repeat="doctor in allDoctors" >
+<p>
+  <form>
+    <fieldset class="uk-fieldset">
+
+        <legend class="uk-legend">Choose a Location</legend>
+
+        <div class="uk-margin">
+            <select class = "uk-select" ng-model="doctorLocation" ng-options="location for location in uniqueLocations">
+              <!--<option ng-repeat="location in uniqueLocations" ng-selected="{{location.id == 0}}">{{location.location}}</option> -->
+          </select>
+        </div>
+    </fieldset>
+</form>
+</p>
+
+<div ng-repeat="doctor in allDoctors | filter: (doctorLocation === 'All' ? undefined : {location: doctorLocation})" >
 
   <div class="uk-child-width-1@m uk-grid-small uk-grid-match" uk-grid>
     <div>
