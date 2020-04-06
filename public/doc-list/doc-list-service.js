@@ -19,7 +19,7 @@ angular.module('notredemian-doc-list.services')
       primary_contact: "+8801712012907",
       secondary_contact: "N/A",
       description: "Assistant Scientist",
-      institute: "Dhaka Hospital, Nutrition and Clinical Services Division",
+      institute: "Dhaka Hospital, Nutrition and Clinical Services Division, ICDDR,B",
       email: "drsharif@icddrb.org",
       location: "Dhaka"
     },
